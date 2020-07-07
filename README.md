@@ -1,2 +1,2 @@
 # SunApi
-Simple Mvc app with sunrise and sunset information with Api-s
+Simple MVC app with sunrise and sunset information with Api-s
